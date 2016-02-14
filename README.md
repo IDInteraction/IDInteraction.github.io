@@ -1,2 +1,3 @@
-# IDInteraction.github.io
-The IDInteraction website.
+# The IDInteraction Website
+
+## Robert Haines, Aitor Apaolaza, Caroline Jay
