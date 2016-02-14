@@ -2,6 +2,8 @@
 
 ## Robert Haines, Aitor Apaolaza, Caroline Jay
 
+*The IDInteraction website.*
+
 ## Acknowledgements
 
 IDInteraction is funded by the Engineering and Physical Sciences Research Council, UK through grant agreement number [EP/M017133/1][gow].
