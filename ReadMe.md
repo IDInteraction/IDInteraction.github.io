@@ -20,5 +20,7 @@ All code contained in this repository is licenced under LGPL version 2.1. See LI
 
 All content contained in this repository is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International Licence][ccbysa].
 
+![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
 [ccbysa]: http://creativecommons.org/licenses/by-sa/4.0/
 [gow]: http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M017133/1
