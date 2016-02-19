@@ -1,0 +1,110 @@
+#home {
+
+}
+
+header {
+	background: $pink;	
+}
+
+#uom-logo {
+	float: left;
+    margin: 0 10px 0 0;
+    position: relative;
+    top: 4px;
+    width: 110px;
+}
+
+#uom-logo-footer {
+	width: 110px;
+	margin: 0 auto 30px;
+	display: block;
+}
+
+.home-header {
+	background: url('/img/header1_min.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+
+.home-header h1 {
+	background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 3em;
+    font-weight: 200;
+    margin: 10vh auto 7vh;
+    max-width: 1000px;
+    opacity: 0;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.big-button {
+	position: relative;
+	top: 30px;
+	opacity: 0;
+	background: $yellow;
+    border-radius: 7px;
+    color: $grey-dark !important;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    width: 250px;
+    font-size: 1.2em;
+    font-weight: 200;
+    -webkit-transition: background 0.2s ease-in-out;
+	-moz-transition: background 0.2s ease-in-out;
+	-ms-transition: background 0.2s ease-in-out;
+	-o-transition: background 0.2s ease-in-out;
+	transition: background 0.2s ease-in-out;
+}
+
+.big-button:hover {
+	text-decoration: none;
+	background: $yellow-light;
+    -webkit-transition: background 0.2s ease-in-out;
+	-moz-transition: background 0.2s ease-in-out;
+	-ms-transition: background 0.2s ease-in-out;
+	-o-transition: background 0.2s ease-in-out;
+	transition: background 0.2s ease-in-out;
+}
+
+.big-button i {
+	position:relative;
+	top: 1px;
+}
+
+.small-button {
+	background: $light-blue;
+    border-radius: 7px;
+    color: $white !important;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+    width: 150px;
+    font-size: 1em;
+    font-weight: 200;
+    -webkit-transition: background 0.2s ease-in-out;
+	-moz-transition: background 0.2s ease-in-out;
+	-ms-transition: background 0.2s ease-in-out;
+	-o-transition: background 0.2s ease-in-out;
+	transition: background 0.2s ease-in-out;
+	float: right;
+	font-size: 0.6em;
+}
+
+.small-button:hover {
+	text-decoration: none;
+	background: $light-blue-light;
+    -webkit-transition: background 0.2s ease-in-out;
+	-moz-transition: background 0.2s ease-in-out;
+	-ms-transition: background 0.2s ease-in-out;
+	-o-transition: background 0.2s ease-in-out;
+	transition: background 0.2s ease-in-out;
+}
+
+.post-header {
+	background: none;
+}

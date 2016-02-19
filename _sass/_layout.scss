@@ -2,8 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -11,7 +9,8 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 24px;
+    font-weight: 200;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -19,8 +18,23 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $white;
     }
+}
+
+#mobile-menu {
+	display: none;
+}
+
+#mobile-menu a {
+	display: block;
+	padding: 10px;
+}
+
+#mobile-menu a:hover,
+#mobile-menu a:active {
+	background: $yellow;
+	text-decoration: none;
 }
 
 .site-nav {
@@ -32,19 +46,21 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $white;
         line-height: $base-line-height;
+        font-weight: 200;
+		
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+            margin-right: 20px;
         }
     }
 
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
-        right: 30px;
+        right: $spacing-unit / 2;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
@@ -74,14 +90,18 @@
             display: none;
         }
 
-        &:hover .trigger {
+        &:hover + #mobile-menu {
             display: block;
-            padding-bottom: 5px;
         }
 
         .page-link {
             display: block;
             padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-right: 0;
+            }
+            margin-left: 20px;
         }
     }
 }
@@ -112,6 +132,9 @@
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    
+    border-top: 1px dotted #ddd;
+    padding: 30px 0;
 }
 
 .footer-col {
@@ -166,7 +189,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 42px;
 }
 
 .post-list {

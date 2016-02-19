@@ -3,31 +3,46 @@
 ---
 @charset "utf-8";
 
-
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Roboto', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
+$base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
+$pink:			   #f36;
+$white:			   #fff;
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #081c35;
 
+$light-blue:		#00ccff;
+$light-blue-light:	#11c2ee;
+$electric-blue:	   #00fef5;
+$electric-blue-light:#7AFFFB;
 $grey-color:       #828282;
+$grey-dark:		   #2d2d2d;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$dark-blue: 		#081c35;
+$yellow:			#FFCC33;
+$yellow-light:		#ffd452;
+
+// Width of the content area
+$content-width:    1200px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
 
 
-// Using media queries with like this:
-// @include media-query($palm) {
+// Use media queries like this:
+// @include media-query($on-palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
@@ -39,11 +54,18 @@ $on-laptop:        800px;
     }
 }
 
-
+@include media-query($on-palm) {
+	.home-header h1 {
+		background: none!important;
+		font-size: 2em!important;
+		margin: 5vh auto 7vh!important;
+	}
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "style"
 ;
