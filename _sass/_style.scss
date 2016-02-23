@@ -108,3 +108,41 @@ header {
 .post-header {
 	background: none;
 }
+
+.home,
+.page,
+.news {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.news-single article {
+	width: 60%;
+	min-width: 300px;
+	display: inline-block;
+}
+
+.news-single sidebar {
+	border-left: 1px solid #ddd;
+    display: inline-block;
+    margin: 0 0 0 30px;
+    min-width: 300px;
+    padding: 0 0 0 30px;
+    vertical-align: top;
+    width: 25%;
+}
+
+.news-single sidebar h2 {
+	border-bottom: 1px dashed #ddd;
+    font-size: 28px;
+    padding: 0 0 10px;
+}
+
+.news-single sidebar h3 {
+	font-size: 18px;
+	margin: 0;
+}
+
+
+

@@ -60,6 +60,16 @@ $on-laptop:        800px;
 		font-size: 2em!important;
 		margin: 5vh auto 7vh!important;
 	}
+	
+	.news-single sidebar {
+		border-left: none!important;
+		display: inline-block;
+		margin: 0!important;
+		min-width: 300px;
+		padding: 0!important;
+		vertical-align: top;
+		width: 25%;
+	}
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
