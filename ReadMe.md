@@ -1,6 +1,6 @@
 # The IDInteraction Website
 
-## Robert Haines, Aitor Apaolaza, Caroline Jay
+## Aitor Apaolaza, Rob Dunne, Robert Haines, Caroline Jay
 
 *The IDInteraction website.*
 
