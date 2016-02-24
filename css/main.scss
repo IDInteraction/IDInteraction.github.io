@@ -56,9 +56,10 @@ $on-laptop:        800px;
 
 @include media-query($on-palm) {
 	.home-header h1 {
-		background: none!important;
+		/*background: none!important;*/
 		font-size: 2em!important;
 		margin: 5vh auto 7vh!important;
+		border-radius: 0;
 	}
 	
 	.news-single sidebar {
