@@ -4,4 +4,4 @@ title: News
 permalink: /news/
 ---
 
-<h1 class="page-heading">News</h1>
+# News
