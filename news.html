@@ -1,6 +1,7 @@
 ---
 layout: default
 title: News
+permalink: /news/
 ---
 
 <div class="news">
@@ -15,7 +16,7 @@ title: News
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        
+
         <p>{{ post.excerpt }} [<a href="{{ post.url | prepend: site.baseurl }}">read post...</a>]</p>
       </li>
     {% endfor %}
