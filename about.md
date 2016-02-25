@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
+# About us
+
+## Caroline Jay
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus elit, vestibulum vel leo id, molestie dictum justo. Duis faucibus fringilla ante, a blandit purus vulputate et. Fusce pellentesque, diam a molestie elementum, metus turpis malesuada tellus, at interdum nisl felis eu metus. Nulla ut nisi aliquam, euismod nunc tincidunt, porta neque. Mauris vitae ante vestibulum, tempor dolor vel, mollis erat. Sed vel metus tristique metus auctor luctus quis finibus nisi. Morbi sagittis porta nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eu quam ligula. Pellentesque ut nulla urna. Sed quis convallis sem. Integer pretium laoreet augue quis aliquet. Nam urna justo, eleifend in purus nec, tincidunt vulputate velit. Sed non odio non risus posuere placerat. Sed ultricies justo sodales, efficitur ligula lobortis, egestas lorem. Sed vestibulum tortor nisl, eu viverra ligula placerat eu.
 
+## Aitor Apaolaza
+
 Phasellus ut nibh semper, placerat massa ac, iaculis mi. Vivamus sollicitudin eros vitae ultrices dignissim. Duis ante erat, lobortis vitae placerat eget, faucibus nec est. Etiam ultrices lectus at sollicitudin venenatis. In tempor iaculis lectus a eleifend. Vivamus molestie est purus, ut gravida magna interdum nec. Duis tincidunt congue ex, at pretium orci ultrices ut. Proin suscipit lorem in nulla malesuada, et pulvinar ligula sollicitudin. Sed pellentesque, velit a fringilla imperdiet, magna leo varius tellus, et faucibus mauris quam eu nisi. Morbi pharetra nisi eget elit ornare dignissim. Duis malesuada, felis vitae tincidunt porttitor, nulla mi consequat nunc, non consectetur diam tellus a ligula.
+
+## Robert Haines
 
 Nunc quis dui congue, condimentum augue in, rutrum nisi. Cras posuere enim sit amet lectus gravida bibendum. Sed hendrerit at ipsum quis scelerisque. Sed facilisis sapien sit amet nunc faucibus, a ultrices lorem rhoncus. Sed gravida euismod urna ac posuere. Phasellus consequat nulla ut efficitur facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis non sem in lacus ullamcorper dignissim. Nunc ullamcorper bibendum nibh id tempor. Donec libero nulla, eleifend et lectus a, posuere laoreet nisl. Etiam laoreet interdum magna eu mollis. Ut in rhoncus felis, nec imperdiet lectus. Nulla risus ex, cursus nec ante a, posuere imperdiet nisi. In maximus ante et dui pharetra, pellentesque cursus metus porta. Proin blandit tincidunt blandit.
