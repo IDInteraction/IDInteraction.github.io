@@ -13,11 +13,11 @@ layout: default
 
 	<sidebar class="post-list">
 		<h2>Recent posts</h2>
-		
+
 		{% for post in site.posts %}
 			<li>
 				<h3>
-			  		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			  		<a class="post-link plain-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</h3>
 				<div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
 			</li>
