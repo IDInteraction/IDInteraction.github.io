@@ -3,7 +3,7 @@
 }
 
 header {
-	background: $pink;	
+	background: $pink;
 }
 
 #uom-logo {
@@ -110,6 +110,20 @@ header {
 	background: none;
 }
 
+a.plain-link {
+	color: $brand-color;
+	text-decoration: none;
+
+	&:visited {
+			color: darken($brand-color, 10%);
+	}
+
+	&:hover {
+			color: $brand-color;
+			text-decoration: underline;
+	}
+}
+
 .home,
 .page,
 .news {
@@ -144,6 +158,3 @@ header {
 	font-size: 18px;
 	margin: 0;
 }
-
-
-
