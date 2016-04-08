@@ -16,8 +16,16 @@ header {
 
 #uom-logo-footer {
 	width: 110px;
-	margin: 0 auto 30px;
+	margin: 0 30px 30px 0;
 	display: block;
+	float: left;
+}
+
+#epsrc-logo-footer {
+	width: 110px;
+	margin: 0 0 30px 30px;
+	display: block;
+	float: right;
 }
 
 .home-header {
