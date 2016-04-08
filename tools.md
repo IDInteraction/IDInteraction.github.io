@@ -37,7 +37,7 @@ If you wish for more control over how the pipelines are run you can use Docker d
 [dockerdocs]: https://docs.docker.com/
 [idi-docker]: https://hub.docker.com/u/idinteraction/
 [idi-github]: https://github.com/IDInteraction
-[pipe-readme]: https://github.com/IDInteraction/tracking-tools#idi-crop-video
+[pipe-readme]: https://github.com/IDInteraction/processing-pipelines/blob/master/ReadMe.md
 [tool-init]: https://github.com/IDInteraction/tracking-tools#idi-init-tracking
 [tool-replay]: https://github.com/IDInteraction/tracking-tools#idi-replay-tracking
 [tool-track]: https://github.com/IDInteraction/tracking-tools#idi-track
