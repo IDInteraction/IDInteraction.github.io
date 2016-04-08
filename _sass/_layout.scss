@@ -127,6 +127,13 @@
     margin-left: 0;
 }
 
+.footer-ack {
+  font-size: 15px;
+  color: $grey-color;
+  text-align: center;
+  @extend %clearfix;
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
