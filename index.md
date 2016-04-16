@@ -11,4 +11,4 @@ The IDInteraction project asks: can we exploit models of human behaviour to move
 
 ## Publications
 
-* Our paper, ['ABC: Using Object Tracking to Automate Behavioural Coding'](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:297977) has been accepted for presentation at the 2016 CHI Conference in San Jose.
+* Aitor Apaolaza, Robert Haines, Amaia Aizpurua, Andy Brown, Michael Evans, Stephen Jolly, Simon Harper, Caroline Jay; ['*ABC: Using Object Tracking to Automate Behavioural Coding*'](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:297977). Accepted for presentation at the 2016 CHI Conference in San Jose, CA, USA.
