@@ -11,5 +11,5 @@ The IDInteraction project asks: can we exploit models of human behaviour to move
 
 ## Publications
 
-* Aitor Apaolaza, Robert Haines, Amaia Aizpurua, Andy Brown, Michael Evans, Stephen Jolly, Simon Harper, Caroline Jay; ['*ABC: Using Object Tracking to Automate Behavioural Coding*'](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:297977). Accepted for presentation at [CHI 2016](https://chi2016.acm.org) in San Jose, CA, USA.
-* Robert Haines and Caroline Jay; ['*Reproducible Research: Citing your execution environment using Docker and a DOI*'](http://www.software.ac.uk/blog/2016-03-29-reproducible-research-citing-your-execution-environment-using-docker-and-doi). Blog post published on the [Software Sustainability Institute website](http://www.software.ac.uk/).
+* **Aitor Apaolaza, Robert Haines, Amaia Aizpurua, Andy Brown, Michael Evans, Stephen Jolly, Simon Harper, Caroline Jay**; ['*ABC: Using Object Tracking to Automate Behavioural Coding*'](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:297977). Accepted for presentation at [CHI 2016](https://chi2016.acm.org) in San Jose, CA, USA.
+* **Robert Haines and Caroline Jay**; ['*Reproducible Research: Citing your execution environment using Docker and a DOI*'](http://www.software.ac.uk/blog/2016-03-29-reproducible-research-citing-your-execution-environment-using-docker-and-doi). Blog post published on the [Software Sustainability Institute website](http://www.software.ac.uk/).
