@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automated Behavioural Coding paper accepted"
-date:   2016-03-04 10:30:00
+date:   2016-03-04
 categories: research
 ---
 

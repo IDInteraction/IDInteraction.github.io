@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reproducible Research: Citing your execution environment using Docker and a DOI"
-date:   2016-04-04 09:30:00
+date:   2016-04-04
 categories: research
 ---
 
