@@ -10,11 +10,6 @@ All the source code and processing pipelines that we have developed and used in 
 
 ## Docker images
 
-### Analysis
-
-* [![](https://img.shields.io/badge/Docker-analysis-green.svg)](https://hub.docker.com/r/idinteraction/analysis/)
-* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45983.svg)](http://dx.doi.org/10.5281/zenodo.45983)
-
 ### CppMT (including CppMT-replay)
 
 * [![](https://img.shields.io/badge/Docker-CppMT-green.svg)](https://hub.docker.com/r/idinteraction/cppmt/)
@@ -24,6 +19,11 @@ All the source code and processing pipelines that we have developed and used in 
 
 * [![](https://img.shields.io/badge/Docker-object--tracking-green.svg)](https://hub.docker.com/r/idinteraction/object-tracking/)
 * [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.44677.svg)](http://dx.doi.org/10.5281/zenodo.44677)
+
+### Object tracking analysis
+
+* [![](https://img.shields.io/badge/Docker-tracking--analysis-green.svg)](https://hub.docker.com/r/idinteraction/analysis/)
+* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45983.svg)](http://dx.doi.org/10.5281/zenodo.45983)
 
 ### Video processing
 
