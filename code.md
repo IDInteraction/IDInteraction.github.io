@@ -8,6 +8,28 @@ permalink: /code/
 
 All the source code and processing pipelines that we have developed and used in our research are available here. You can access these resources from [GitHub][idi-github], the [Docker Hub][idi-docker] or via their Digital Object Identifier (DOI).
 
+## Docker images
+
+### Analysis
+
+* [![](https://img.shields.io/badge/Docker-analysis-green.svg)](https://hub.docker.com/r/idinteraction/analysis/)
+* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45983.svg)](http://dx.doi.org/10.5281/zenodo.45983)
+
+### CppMT (including CppMT-replay)
+
+* [![](https://img.shields.io/badge/Docker-CppMT-green.svg)](https://hub.docker.com/r/idinteraction/cppmt/)
+* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.44675.svg)](http://dx.doi.org/10.5281/zenodo.44675)
+
+### Object tracking
+
+* [![](https://img.shields.io/badge/Docker-object--tracking-green.svg)](https://hub.docker.com/r/idinteraction/object-tracking/)
+* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.44677.svg)](http://dx.doi.org/10.5281/zenodo.44677)
+
+### Video processing
+
+* [![](https://img.shields.io/badge/Docker-video--processing-green.svg)](https://hub.docker.com/r/idinteraction/video/)
+* [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.44676.svg)](http://dx.doi.org/10.5281/zenodo.44676)
+
 ## Source code
 
 ### CppMT
