@@ -14,6 +14,10 @@ permalink: /about/
 
 [Aitor](https://www.researchgate.net/profile/Aitor_Apaolaza) is a postdoctoral research associate at the University of Manchester, specialising in inferring behaviour from sensor and event data. He recently obtained his Ph.D., which focused on Web behaviour analysis through remotely captured interaction data.
 
+## David Mawdsley
+
+David is a Research Software Engineer and Data Scientist in [Research IT](http://www.itservices.manchester.ac.uk/research/). Previously he was a Senior Research Associate at the University of Bristol working on the evidence synthesis of clinical trials. His main skills are in R, Python, SQL and SAS, and he is also a Software Carpentry instructor.
+
 ## Robert Haines
 
 [Rob](http://www.manchester.ac.uk/research/robert.haines) is Head of Research Software Engineering and Applications Support in [Research IT](http://www.itservices.manchester.ac.uk/research/) at the University of Manchester, and is providing his technical expertise to IDInteraction as a [Research Software Engineer](http://www.software.ac.uk/policy/research-software-engineers). He is a [Fellow of the Software Sustainability Institute](http://software.ac.uk/fellows/robert-haines), and is an enthusiastic advocate of Open Source Software and open and reproducible science. He teaches software engineering in the School of Computer Science as an Honorary Lecturer.
