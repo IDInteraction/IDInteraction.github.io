@@ -10,7 +10,7 @@ IDInteraction is funded by the Engineering and Physical Sciences Research Counci
 
 ## Licences
 
-Copyright (c) 2015, 2016 The University of Manchester, UK.
+Copyright (c) 2015-2017 The University of Manchester, UK.
 
 ### Code
 
